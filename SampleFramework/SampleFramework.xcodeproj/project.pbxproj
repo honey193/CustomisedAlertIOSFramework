@@ -55,6 +55,7 @@
 		93B4B9AD29A76F5F00193C3A = {
 			isa = PBXGroup;
 			children = (
+				93B4B9D129A7717800193C3A /* CostomiseSystemAlert.swift */,
 				93B4B9B929A76F5F00193C3A /* SampleFramework */,
 				93B4B9C529A76F6000193C3A /* SampleFrameworkTests */,
 				93B4B9B829A76F5F00193C3A /* Products */,
@@ -73,7 +74,6 @@
 		93B4B9B929A76F5F00193C3A /* SampleFramework */ = {
 			isa = PBXGroup;
 			children = (
-				93B4B9D129A7717800193C3A /* CostomiseSystemAlert.swift */,
 				93B4B9BA29A76F5F00193C3A /* SampleFramework.h */,
 				93B4B9BB29A76F5F00193C3A /* SampleFramework.docc */,
 			);
